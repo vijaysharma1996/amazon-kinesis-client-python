@@ -1,7 +1,8 @@
 # Amazon Kinesis Client Library for Python
 
-This package provides an interface to the Amazon Kinesis Client Library (KCL) MultiLangDaemon,
-which is part of the [Amazon KCL for Java][kinesis-github].
+This bundle gives an interface to the Amazon Kinesis Client Library (KCL) MultiLangDaemon, 
+
+which is important for the [Amazon KCL for Java][kinesis-github].
 Developers can use the [Amazon KCL][amazon-kcl] to build distributed applications that
 process streaming data reliably at scale. The [Amazon KCL][amazon-kcl] takes care of
 many of the complex tasks associated with distributed computing, such as load-balancing
